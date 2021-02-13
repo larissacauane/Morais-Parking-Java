@@ -1,37 +1,36 @@
 # Morais Parking Java
- This app was created as the final project of UNIESP's Object Oriented Programming Course. It is a simple parking manegement system that allows registering users, vehicles, owners, events, occurrences and new parking spaces. It also allows monitoring the entrance and exit of vehicles.
+ Este aplicativo foi criado como projeto final do Curso de Programação Orientada a Objetos da UNIESP. É um sistema de gerenciamento de estacionamento simples que permite cadastrar usuários, veículos, proprietários, eventos, ocorrências e novas vagas de estacionamento. Também permite monitorar a entrada e saída de veículos.
 
 <img src="https://i.pinimg.com/originals/de/2a/d7/de2ad78de5ebf97c566ae3ff8df57951.gif">
 
-### Functionalities
+### Funcionalidades
 
-The menu options varies according to the user type. There are three different user types: the parking employee, the Human Resources employee, and the manager.
+As opções do menu variam de acordo com o tipo de usuário. Existem três tipos de usuários diferentes: o funcionário do estacionamento, o funcionário de Recursos Humanos e o gerente.
 
-Overall the system has the following functionalities:
+No geral, o sistema possui as seguintes funcionalidades:
 
-* Login and logout
-* Register and remove owners
-* Register and remove vehicles
-* Permit vehicles entry and exit
-* Monitoring parking lots
-* Register and remove special parking areas
-* Concede and remove parking permissions
-* Register and remove events
-* Register and remove users
-* Generate report*
-* Register occurrences*
-* This functionalities are not integrated with the database yet
+* Login e logout
+* Registrar e remover proprietários
+* Registrar e remover veículos
+* Permitir entrada e saída de veículos
+* Monitoramento de estacionamentos
+* Registrar e remover áreas especiais de estacionamento
+* Conceder e remover permissões de estacionamento
+* Registrar e remover eventos
+* Registrar e remover usuários
+* Gerar relatório *
+* Registrar ocorrências *
+* Estas funcionalidades ainda não estão integradas ao banco de dados
 
-### Developing tools
+### Ferramentas de desenvolvimento
 
-This project was develloped in Java, using the following tools:
-
+Este projeto foi desenvolvido em Java, utilizando as seguintes ferramentas:
 * [JDK 11](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html)
 * [SQLite 3.30.1](https://bitbucket.org/xerial/sqlite-jdbc/downloads/)
 * [JavaFx 11.0.2](https://gluonhq.com/products/javafx/)
 * [FontAwesomeFx 8.2](https://bitbucket.org/Jerady/fontawesomefx/downloads/)
 
 
-### Authors
+### Autores
 * Larissa Cauane
 * Roberto Mendes
